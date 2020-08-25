@@ -20,9 +20,14 @@ Software for adding fake viewers to your YouTube stream
 Install this before launch
 
 [pip3 install os] without brackets
+
 [pip3 install Fore] without brackets
+
 [pip3 install init] without brackets
+
 [pip3 install colorama] without brackets
+
 [pip3 install requestes] without brackets
+
 [pip3 install platform] without brackets
 
